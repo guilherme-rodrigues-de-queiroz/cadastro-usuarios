@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-    baseURL: 'https://api-d0y8reum0-guiziins-projects.vercel.app',
+    baseURL: 'https://api-iota-ten-17.vercel.app',
     headers: {
         'Authorization': `Bearer`,
         'Content-Type': 'application/json'
